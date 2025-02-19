@@ -396,13 +396,13 @@ footer{
 }
 @media only screen and (max-width: 663px){
     #header{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
     }
     #about{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
     }
     #certificates{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
         
     }
     #certificates{
@@ -410,7 +410,7 @@ footer{
         height: fit-content;
     }
     #contact{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
     }
     .header-text{
         /* margin-top: 100%; */
@@ -457,20 +457,20 @@ footer{
 
 @media only screen and (max-width: 925px){
     #header{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
     }
     #about{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
     }
     #certificates{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
         
     }
     #certificates{
         height: fit-content;
     }
     #contact{
-        background-image: url('Images/Phone\ BackGround.jpg');
+        background-image: url('./Images/Phone\ BackGround.jpg');
     }
    
     
